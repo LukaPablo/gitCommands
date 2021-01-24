@@ -23,3 +23,7 @@ git checkout dev  # in eine bestehende branch wechseln
 ```bash
 git push -u origin dev  # lokale branch nach origin pushen und erstellen duech -u einmalig
 ```
+
+```bash
+git pull  # hole änderungen von dem Server
+```
